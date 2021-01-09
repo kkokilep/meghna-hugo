@@ -1,6 +1,6 @@
 ---
 title: Simple Blog Post
-date: 2018-09-12T12:52:36.000+06:00
+date: 2018-09-12T06:52:36+00:00
 image_webp: "/images/team/team-4.webp"
 image: images/blog/blog-post-3.jpg
 author: John Doe
